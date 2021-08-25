@@ -23,6 +23,8 @@ footer {
     padding:10px;
     background-color:cornflowerblue;
     font-style: italic;
-    box-shadow: 0px 0px 10px coral;
+    box-shadow: 0px 0px 20px coral;
     border-radius: 10px;
+    width: 70%;
+    margin: 20px auto;
 }
