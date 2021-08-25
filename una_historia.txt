@@ -1,5 +1,3 @@
 Hola, me llamo Jhordan Villamil
 
 Soy estudiante de Desarrollo web
-
-System.Net.ServicePointManager.SecurityProtocol = SecurityProtocolType.Tls12;
